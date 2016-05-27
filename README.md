@@ -1,3 +1,6 @@
+This repository contains modified Russian (Cyrilic) Keyboard Layout BG64 for OSX.
+The only difference from the default layout is the position of the letter `Ё`. It's locaded on `~` key, as it's common for standard PC keyboard layout.
+
 ## How to install
 
 Copy files to 
